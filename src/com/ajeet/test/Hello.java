@@ -6,5 +6,7 @@ public class Hello {
 	{
 		System.out.println("hello");
 		System.out.println("test child branch");
+		System.out.println("test child branch 2");
+		
 	}
 }
